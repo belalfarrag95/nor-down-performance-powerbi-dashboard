@@ -1,6 +1,6 @@
 # Nour Down Association | Strategic & Operational Performance Power BI Dashboard 🟢 📊
 
-![Landing Page](01-Landing.png)
+![Landing Page](01-Landing_Page.png)
 
 An executive Data & Analytics dashboard developed for **Nour Down Association (جمعية المدينة المنورة لمتلازمة داون)** to measure, monitor, and evaluate strategic goals, operational performance, measurement scorecards, and department-level achievements.
 
