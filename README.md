@@ -16,7 +16,7 @@ This Power BI dashboard acts as a comprehensive Performance Management System (P
 
 ### 1. Landing Page (الرئيسية)
 An interactive dark glassmorphic portal providing streamlined navigation to all core dashboard modules.
-![Landing Page](01-Landing.png)
+![Landing Page](01-Landing_Page.png)
 
 ### 2. Strategic Performance (الأداء الاستراتيجي)
 Focuses on organizational impact, long-term strategic objectives, and key performance drivers.
